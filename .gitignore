@@ -1,0 +1,5 @@
+*bundle.js
+*bundle.css
+.idea*
+*/node_modules*
+*/js/build*
